@@ -1,0 +1,99 @@
+[11:21:17] exact: vorhanden
+[11:21:17] tuned n = 10: beste Lernraten {'keiner': 0.0003, 'mittel': 0.003, 'rollout': 0.0003, 'pomo': 0.003}
+[11:21:49] main_n10_keiner_lr0.0003_w1000_d2000_s4000: val 7.23 %, test 7.59 %, 32 s
+[11:22:21] main_n10_keiner_lr0.0003_w1001_d2001_s4000: val 8.31 %, test 8.82 %, 32 s
+[11:22:53] main_n10_keiner_lr0.0003_w1002_d2002_s4000: val 5.81 %, test 6.14 %, 32 s
+[11:23:26] main_n10_keiner_lr0.0003_w1003_d2003_s4000: val 8.26 %, test 9.11 %, 33 s
+[11:23:58] main_n10_keiner_lr0.0003_w1004_d2004_s4000: val 6.89 %, test 6.81 %, 32 s
+[11:24:28] main_n10_keiner_lr0.0003_w1005_d2005_s4000: val 7.78 %, test 8.13 %, 30 s
+[11:24:58] main_n10_keiner_lr0.0003_w1006_d2006_s4000: val 7.39 %, test 7.24 %, 30 s
+[11:25:28] main_n10_keiner_lr0.0003_w1007_d2007_s4000: val 7.29 %, test 7.40 %, 30 s
+[11:25:59] main_n10_keiner_lr0.0003_w1008_d2008_s4000: val 6.46 %, test 5.96 %, 30 s
+[11:26:29] main_n10_keiner_lr0.0003_w1009_d2009_s4000: val 7.50 %, test 7.59 %, 30 s
+[11:27:01] main_n10_mittel_lr0.003_w1000_d2000_s4000: val 3.75 %, test 3.57 %, 32 s
+[11:27:30] main_n10_mittel_lr0.003_w1001_d2001_s4000: val 3.70 %, test 3.76 %, 30 s
+[11:28:00] main_n10_mittel_lr0.003_w1002_d2002_s4000: val 4.23 %, test 3.85 %, 30 s
+[11:28:30] main_n10_mittel_lr0.003_w1003_d2003_s4000: val 3.50 %, test 3.56 %, 30 s
+[11:29:00] main_n10_mittel_lr0.003_w1004_d2004_s4000: val 3.76 %, test 4.08 %, 30 s
+[11:29:30] main_n10_mittel_lr0.003_w1005_d2005_s4000: val 4.78 %, test 4.44 %, 30 s
+[11:30:00] main_n10_mittel_lr0.003_w1006_d2006_s4000: val 3.68 %, test 3.85 %, 30 s
+[11:30:30] main_n10_mittel_lr0.003_w1007_d2007_s4000: val 4.27 %, test 3.82 %, 30 s
+[11:31:00] main_n10_mittel_lr0.003_w1008_d2008_s4000: val 4.03 %, test 3.43 %, 30 s
+[11:31:30] main_n10_mittel_lr0.003_w1009_d2009_s4000: val 3.60 %, test 3.76 %, 30 s
+[11:32:06] main_n10_rollout_lr0.0003_w1000_d2000_s4000: val 4.38 %, test 3.81 %, 37 s
+[11:32:46] main_n10_rollout_lr0.0003_w1001_d2001_s4000: val 4.79 %, test 4.27 %, 39 s
+[11:33:23] main_n10_rollout_lr0.0003_w1002_d2002_s4000: val 3.97 %, test 3.82 %, 37 s
+[11:34:02] main_n10_rollout_lr0.0003_w1003_d2003_s4000: val 4.76 %, test 4.13 %, 39 s
+[11:34:41] main_n10_rollout_lr0.0003_w1004_d2004_s4000: val 4.25 %, test 4.13 %, 39 s
+[11:35:20] main_n10_rollout_lr0.0003_w1005_d2005_s4000: val 3.84 %, test 3.91 %, 38 s
+[11:35:59] main_n10_rollout_lr0.0003_w1006_d2006_s4000: val 4.16 %, test 4.12 %, 39 s
+[11:36:38] main_n10_rollout_lr0.0003_w1007_d2007_s4000: val 4.27 %, test 3.73 %, 39 s
+[11:37:23] main_n10_rollout_lr0.0003_w1008_d2008_s4000: val 4.40 %, test 4.14 %, 45 s
+[11:38:03] main_n10_rollout_lr0.0003_w1009_d2009_s4000: val 4.05 %, test 4.25 %, 40 s
+[11:38:17] main_n10_pomo_lr0.003_w1000_d2000_s4000: val 3.43 %, test 3.11 %, 14 s
+[11:38:31] main_n10_pomo_lr0.003_w1001_d2001_s4000: val 3.80 %, test 3.02 %, 14 s
+[11:38:45] main_n10_pomo_lr0.003_w1002_d2002_s4000: val 3.96 %, test 3.58 %, 14 s
+[11:38:59] main_n10_pomo_lr0.003_w1003_d2003_s4000: val 3.76 %, test 3.81 %, 14 s
+[11:39:13] main_n10_pomo_lr0.003_w1004_d2004_s4000: val 3.00 %, test 2.81 %, 14 s
+[11:39:27] main_n10_pomo_lr0.003_w1005_d2005_s4000: val 3.45 %, test 3.01 %, 14 s
+[11:39:40] main_n10_pomo_lr0.003_w1006_d2006_s4000: val 3.26 %, test 2.94 %, 14 s
+[11:39:54] main_n10_pomo_lr0.003_w1007_d2007_s4000: val 3.89 %, test 3.15 %, 14 s
+[11:40:08] main_n10_pomo_lr0.003_w1008_d2008_s4000: val 2.79 %, test 2.68 %, 14 s
+[11:40:22] main_n10_pomo_lr0.003_w1009_d2009_s4000: val 3.41 %, test 3.31 %, 14 s
+[11:40:52] cross_n10_mittel_lr0.001_w3000_d4000_s4000: val 4.55 %, test 3.82 %, 30 s
+[11:41:23] cross_n10_mittel_lr0.001_w3000_d4001_s4000: val 4.55 %, test 3.90 %, 30 s
+[11:41:53] cross_n10_mittel_lr0.001_w3000_d4002_s4000: val 4.01 %, test 3.70 %, 30 s
+[11:42:23] cross_n10_mittel_lr0.001_w3000_d4003_s4000: val 3.78 %, test 3.37 %, 30 s
+[11:42:54] cross_n10_mittel_lr0.001_w3000_d4004_s4000: val 3.78 %, test 4.00 %, 31 s
+[11:43:26] cross_n10_mittel_lr0.001_w3001_d4000_s4000: val 4.05 %, test 4.25 %, 32 s
+[11:43:56] cross_n10_mittel_lr0.001_w3001_d4001_s4000: val 3.94 %, test 3.29 %, 30 s
+[11:44:25] cross_n10_mittel_lr0.001_w3001_d4002_s4000: val 3.98 %, test 3.90 %, 30 s
+[11:44:56] cross_n10_mittel_lr0.001_w3001_d4003_s4000: val 3.79 %, test 3.54 %, 30 s
+[11:45:26] cross_n10_mittel_lr0.001_w3001_d4004_s4000: val 3.58 %, test 3.37 %, 30 s
+[11:45:55] cross_n10_mittel_lr0.001_w3002_d4000_s4000: val 4.14 %, test 4.10 %, 29 s
+[11:46:25] cross_n10_mittel_lr0.001_w3002_d4001_s4000: val 4.69 %, test 4.35 %, 29 s
+[11:46:54] cross_n10_mittel_lr0.001_w3002_d4002_s4000: val 4.35 %, test 4.05 %, 30 s
+[11:47:24] cross_n10_mittel_lr0.001_w3002_d4003_s4000: val 3.91 %, test 3.90 %, 30 s
+[11:47:55] cross_n10_mittel_lr0.001_w3002_d4004_s4000: val 3.87 %, test 4.00 %, 30 s
+[11:48:26] cross_n10_mittel_lr0.001_w3003_d4000_s4000: val 4.41 %, test 3.60 %, 31 s
+[11:48:56] cross_n10_mittel_lr0.001_w3003_d4001_s4000: val 3.98 %, test 3.82 %, 30 s
+[11:49:26] cross_n10_mittel_lr0.001_w3003_d4002_s4000: val 3.61 %, test 3.73 %, 30 s
+[11:49:56] cross_n10_mittel_lr0.001_w3003_d4003_s4000: val 4.15 %, test 4.02 %, 30 s
+[11:50:27] cross_n10_mittel_lr0.001_w3003_d4004_s4000: val 3.46 %, test 3.37 %, 31 s
+[11:50:56] cross_n10_mittel_lr0.001_w3004_d4000_s4000: val 3.92 %, test 3.79 %, 30 s
+[11:51:26] cross_n10_mittel_lr0.001_w3004_d4001_s4000: val 3.87 %, test 3.77 %, 30 s
+[11:51:57] cross_n10_mittel_lr0.001_w3004_d4002_s4000: val 3.94 %, test 3.92 %, 31 s
+[11:52:27] cross_n10_mittel_lr0.001_w3004_d4003_s4000: val 4.24 %, test 3.88 %, 30 s
+[11:52:57] cross_n10_mittel_lr0.001_w3004_d4004_s4000: val 3.93 %, test 3.79 %, 30 s
+[11:53:58] lr_n20_keiner_lr0.0001_w9001_d9501_s3000: val 28.13 %, 60 s
+[11:54:58] lr_n20_keiner_lr0.0001_w9002_d9502_s3000: val 27.53 %, 60 s
+[11:55:55] lr_n20_keiner_lr0.0003_w9001_d9501_s3000: val 21.59 %, 57 s
+[11:56:52] lr_n20_keiner_lr0.0003_w9002_d9502_s3000: val 21.02 %, 58 s
+[11:57:47] lr_n20_keiner_lr0.001_w9001_d9501_s3000: val 24.10 %, 56 s
+[11:58:44] lr_n20_keiner_lr0.001_w9002_d9502_s3000: val 22.17 %, 57 s
+[11:59:43] lr_n20_keiner_lr0.003_w9001_d9501_s3000: val 170.45 %, 58 s
+[12:00:43] lr_n20_keiner_lr0.003_w9002_d9502_s3000: val 170.45 %, 60 s
+[12:01:41] lr_n20_mittel_lr0.0001_w9001_d9501_s3000: val 12.33 %, 58 s
+[12:02:38] lr_n20_mittel_lr0.0001_w9002_d9502_s3000: val 11.39 %, 57 s
+[12:03:35] lr_n20_mittel_lr0.0003_w9001_d9501_s3000: val 11.22 %, 56 s
+[12:04:31] lr_n20_mittel_lr0.0003_w9002_d9502_s3000: val 12.13 %, 56 s
+[12:05:27] lr_n20_mittel_lr0.001_w9001_d9501_s3000: val 11.89 %, 56 s
+[12:06:22] lr_n20_mittel_lr0.001_w9002_d9502_s3000: val 10.82 %, 56 s
+[12:07:17] lr_n20_mittel_lr0.003_w9001_d9501_s3000: val 11.18 %, 55 s
+[12:08:12] lr_n20_mittel_lr0.003_w9002_d9502_s3000: val 11.15 %, 55 s
+[12:10:49] main_n20_keiner_lr0.001_w1000_d2000_s8000: val 17.63 %, test 18.13 %, 157 s
+[12:13:29] main_n20_mittel_lr0.001_w1000_d2000_s8000: val 10.73 %, test 10.96 %, 159 s
+[12:16:37] main_n20_rollout_lr0.001_w1000_d2000_s8000: val 10.30 %, test 9.88 %, 189 s
+[12:17:46] main_n20_pomo_lr0.001_w1000_d2000_s8000: val 10.20 %, test 9.35 %, 69 s
+[12:20:18] main_n20_keiner_lr0.001_w1001_d2001_s8000: val 19.20 %, test 18.12 %, 152 s
+[12:23:11] main_n20_mittel_lr0.001_w1001_d2001_s8000: val 10.27 %, test 9.78 %, 173 s
+[12:27:19] main_n20_rollout_lr0.001_w1001_d2001_s8000: val 10.76 %, test 10.88 %, 248 s
+[12:29:12] main_n20_pomo_lr0.001_w1001_d2001_s8000: val 10.53 %, test 10.49 %, 113 s
+[12:33:14] main_n20_keiner_lr0.001_w1002_d2002_s8000: val 17.94 %, test 17.25 %, 242 s
+[12:36:47] main_n20_mittel_lr0.001_w1002_d2002_s8000: val 10.75 %, test 10.58 %, 213 s
+[12:41:01] main_n20_rollout_lr0.001_w1002_d2002_s8000: val 9.77 %, test 9.58 %, 254 s
+[12:42:41] main_n20_pomo_lr0.001_w1002_d2002_s8000: val 10.27 %, test 9.99 %, 100 s
+[12:46:50] main_n20_keiner_lr0.001_w1003_d2003_s8000: val 15.02 %, test 15.03 %, 249 s
+[12:50:59] main_n20_mittel_lr0.001_w1003_d2003_s8000: val 9.86 %, test 10.09 %, 250 s
+[12:56:43] main_n20_rollout_lr0.001_w1003_d2003_s8000: val 9.36 %, test 10.15 %, 343 s
+[12:59:23] main_n20_pomo_lr0.001_w1003_d2003_s8000: val 9.20 %, test 9.67 %, 160 s

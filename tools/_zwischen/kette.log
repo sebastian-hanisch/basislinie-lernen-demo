@@ -1,0 +1,33 @@
+[12:59:51] exact: vorhanden
+[12:59:52] tuned n = 10: beste Lernraten {'keiner': 0.0003, 'mittel': 0.003, 'rollout': 0.0003, 'pomo': 0.003}
+[13:04:31] main_n20_keiner_lr0.001_w1004_d2004_s8000: val 20.37 %, test 20.34 %, 278 s
+[13:08:33] main_n20_mittel_lr0.001_w1004_d2004_s8000: val 11.37 %, test 11.01 %, 242 s
+[13:12:42] main_n20_rollout_lr0.001_w1004_d2004_s8000: val 10.96 %, test 10.41 %, 248 s
+[13:14:05] main_n20_pomo_lr0.001_w1004_d2004_s8000: val 10.43 %, test 10.64 %, 84 s
+[13:17:42] main_n20_keiner_lr0.001_w1005_d2005_s8000: val 20.42 %, test 20.29 %, 217 s
+[13:21:11] main_n20_mittel_lr0.001_w1005_d2005_s8000: val 9.75 %, test 9.67 %, 208 s
+[13:25:14] main_n20_rollout_lr0.001_w1005_d2005_s8000: val 9.75 %, test 10.86 %, 243 s
+[13:26:45] main_n20_pomo_lr0.001_w1005_d2005_s8000: val 9.76 %, test 9.92 %, 92 s
+[13:26:45] tuned n = 20: beste Lernraten {'keiner': 0.0003, 'mittel': 0.003}
+[13:30:04] main_n20_keiner_lr0.0003_w1000_d2000_s8000: val 18.81 %, test 17.49 %, 198 s
+[13:33:20] main_n20_keiner_lr0.0003_w1001_d2001_s8000: val 13.41 %, test 14.63 %, 196 s
+[13:35:59] main_n20_keiner_lr0.0003_w1002_d2002_s8000: val 14.42 %, test 13.68 %, 159 s
+[13:38:39] main_n20_keiner_lr0.0003_w1003_d2003_s8000: val 15.90 %, test 15.75 %, 160 s
+[13:41:13] main_n20_keiner_lr0.0003_w1004_d2004_s8000: val 13.64 %, test 13.84 %, 154 s
+[13:43:52] main_n20_keiner_lr0.0003_w1005_d2005_s8000: val 14.37 %, test 13.53 %, 159 s
+[13:46:34] main_n20_mittel_lr0.003_w1000_d2000_s8000: val 10.68 %, test 10.46 %, 162 s
+[13:49:13] main_n20_mittel_lr0.003_w1001_d2001_s8000: val 9.83 %, test 9.42 %, 159 s
+[13:52:10] main_n20_mittel_lr0.003_w1002_d2002_s8000: val 10.97 %, test 10.19 %, 176 s
+[13:54:45] main_n20_mittel_lr0.003_w1003_d2003_s8000: val 10.87 %, test 10.68 %, 156 s
+[13:57:33] main_n20_mittel_lr0.003_w1004_d2004_s8000: val 10.74 %, test 11.36 %, 167 s
+[14:00:09] main_n20_mittel_lr0.003_w1005_d2005_s8000: val 11.15 %, test 10.51 %, 156 s
+[14:02:44] cross_n20_mittel_lr0.001_w3000_d4000_s8000: val 10.74 %, test 10.32 %, 154 s
+[14:05:16] cross_n20_mittel_lr0.001_w3000_d4001_s8000: val 10.89 %, test 10.62 %, 152 s
+[14:07:49] cross_n20_mittel_lr0.001_w3000_d4002_s8000: val 9.35 %, test 10.59 %, 154 s
+[14:10:41] cross_n20_mittel_lr0.001_w3001_d4000_s8000: val 11.07 %, test 10.20 %, 172 s
+[14:13:43] cross_n20_mittel_lr0.001_w3001_d4001_s8000: val 9.62 %, test 10.40 %, 182 s
+[14:16:25] cross_n20_mittel_lr0.001_w3001_d4002_s8000: val 10.58 %, test 10.67 %, 162 s
+[14:18:55] cross_n20_mittel_lr0.001_w3002_d4000_s8000: val 9.79 %, test 9.33 %, 150 s
+[14:21:28] cross_n20_mittel_lr0.001_w3002_d4001_s8000: val 10.59 %, test 10.42 %, 153 s
+[14:24:02] cross_n20_mittel_lr0.001_w3002_d4002_s8000: val 9.37 %, test 9.60 %, 154 s
+[14:24:02] assemble: fertig (exakte Referenz n = 10: 1000 Testinstanzen)

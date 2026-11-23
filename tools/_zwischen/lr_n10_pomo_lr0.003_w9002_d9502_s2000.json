@@ -1,0 +1,1 @@
+{"n":10,"form":"pomo","lr":0.003,"steps":2000,"batch":120,"init_seed":9002,"data_seed":9502,"val_kurve":[[0,31.019363],[500,4.259814],[1000,4.150225],[1500,4.584192],[2000,3.217717]],"val_gap_ende":3.217717,"instanzen":24000,"touren":240000,"baseline_touren":0,"kodierer":24000,"pruefungen":0,"ersetzungen":0,"schritte":2000,"abgebrochen":false,"sekunden":6.77,"stage":"lr"}
